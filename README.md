@@ -21,9 +21,9 @@ yarn start
       <td><img src="screenshots/Ecoway-3.png" alt="Screenshot 3" width="150" height="300"/></td>
     </tr>
     <tr>
-      <td><img src="screenshots/Ecoway-4.png" alt="Screenshot 1" width="150" height="300"/></td>
-      <td><img src="screenshots/Ecoway-5.png" alt="Screenshot 2" width="150" height="300"/></td>
-      <td><img src="screenshots/Ecoway-6.png" alt="Screenshot 3" width="150" height="300"/></td>
+      <td><img src="screenshots/Ecoway-4.png" alt="Screenshot 4" width="150" height="300"/></td>
+      <td><img src="screenshots/Ecoway-5.png" alt="Screenshot 5" width="150" height="300"/></td>
+      <td><img src="screenshots/Ecoway-6.png" alt="Screenshot 6" width="150" height="300"/></td>
     </tr>
   </table>
 </div>
